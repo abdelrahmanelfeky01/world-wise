@@ -8,7 +8,7 @@ A travel tracking app that lets you log every city you've visited by clicking on
 ---
 
 ## 🛠️ Built With
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,router)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,reactrouter)](https://skillicons.dev)
 
 ---
 
