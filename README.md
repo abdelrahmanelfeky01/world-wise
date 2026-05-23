@@ -10,9 +10,13 @@ A travel tracking app that lets you log every city you've visited by clicking on
 
 <p>
   <img src="https://api.iconify.design/logos:html-5.svg" width="50" height="50" alt="HTML" />
+  &nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:css-3.svg" width="50" height="50" alt="CSS" />
+  &nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:react.svg" width="50" height="50" alt="React" />
+  &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:reactrouter.svg?color=%23CA4245" width="50" height="50" alt="React Router" />
 </p>
 
