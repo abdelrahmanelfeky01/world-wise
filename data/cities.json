@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "93a9",
+      "cityName": "Zouerate",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2026-02-17T13:25:51.805Z",
+      "notes": "",
+      "position": {
+        "lat": "22.370396344320053",
+        "lng": "-10.173339843750002"
+      }
+    },
+    {
+      "id": "5002",
+      "cityName": "Malem Hodar",
+      "country": "Senegal",
+      "emoji": "🇸🇳",
+      "date": "2026-02-17T13:27:04.239Z",
+      "notes": "",
+      "position": {
+        "lat": "14.200488387358346",
+        "lng": "-15.249023437500002"
+      }
+    }
+  ]
+}
