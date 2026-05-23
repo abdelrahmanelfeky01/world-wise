@@ -1,5 +1,4 @@
 # 🌍 World Wise — Track Countries You've Visited
-
 A travel tracking app that lets you log every city you've visited by clicking on an interactive world map, with personal notes and dates for each trip.
 
 ## 🌐 Live Demo
@@ -8,7 +7,12 @@ A travel tracking app that lets you log every city you've visited by clicking on
 ---
 
 ## 🛠️ Built With
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,reactrouter)](https://skillicons.dev)
+
+<img src="https://api.iconify.design/logos:html-5.svg" width="50" height="50" alt="HTML" />
+<img src="https://api.iconify.design/logos:css-3.svg" width="50" height="50" alt="CSS" />
+<img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript" />
+<img src="https://api.iconify.design/logos:react.svg" width="50" height="50" alt="React" />
+<img src="https://api.iconify.design/simple-icons:reactrouter.svg?color=%23CA4245" width="50" height="50" alt="React Router" />
 
 ---
 
