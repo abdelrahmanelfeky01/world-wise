@@ -2,7 +2,7 @@
 A travel tracking app that lets you log every city you've visited by clicking on an interactive world map, with personal notes and dates for each trip.
 
 ## 🌐 Live Demo
-<a href="https://world-wise.abdelrahmanelfeky.com" target="_blank">👉 View Live Site</a>
+<a href="https://worldwise.abdelrahmanelfeky.com" target="_blank">👉 View Live Site</a>
 
 ---
 
